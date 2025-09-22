@@ -1,4 +1,3 @@
-// enhanced_esp8266_client.ino
 #include <ESP8266WiFi.h>
 #include <WiFiUdp.h>
 #include <ArduinoJson.h>
