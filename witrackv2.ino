@@ -3,7 +3,7 @@
 #include <WiFiUdp.h>
 #include <ArduinoJson.h>
 
-const char* ssid = "Your wifi";
+const char* ssid = "Your wifi SSID";
 const char* password = "wifi password";
 const char* serverIP = "your IP address";
 const int serverPort = 4210;
